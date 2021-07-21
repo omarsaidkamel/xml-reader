@@ -1,0 +1,8 @@
+D:\programing\XML Reader\XML Reader\bin\Debug\XML Reader.exe
+D:\programing\XML Reader\XML Reader\bin\Debug\XML Reader.pdb
+D:\programing\XML Reader\XML Reader\obj\x86\Debug\XML_Reader.Form1.resources
+D:\programing\XML Reader\XML Reader\obj\x86\Debug\XML_Reader.Properties.Resources.resources
+D:\programing\XML Reader\XML Reader\obj\x86\Debug\XML Reader.csproj.GenerateResource.Cache
+D:\programing\XML Reader\XML Reader\obj\x86\Debug\XML Reader.exe
+D:\programing\XML Reader\XML Reader\obj\x86\Debug\XML Reader.pdb
+D:\programing\XML Reader\XML Reader\obj\x86\Debug\XML Reader.csprojResolveAssemblyReference.cache
